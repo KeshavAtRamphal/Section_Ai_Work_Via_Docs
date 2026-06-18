@@ -1,0 +1,332 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 901
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 24 Tf
+27.5999999999999979 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(Study Guide Compiler) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 723.0208346456693107 Td
+(Skill Name) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 695.0190708661416465 Td
+(Study Guide Compiler) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 656.8443307086613459 Td
+(Description) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 628.8425669291337954 Td
+(Automates the repetitive task of parsing, cleaning, and structuring unstructured text files,) Tj
+T* (assignment sheets, and raw programming source code snippets into streamlined,) Tj
+T* (beginner-friendly Markdown study guides for peer tutoring.) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 554.6655590551180239 Td
+(Your SKILL.md) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 1922
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(---) Tj
+T* (name: study-guide-compiler) Tj
+T* (description: Automates the repetitive task of parsing, cleaning, and structuring unstructured) Tj
+T* (text files, assignment sheets, and raw programming source code snippets into streamlined,) Tj
+T* (beginner-friendly Markdown study guides for peer tutoring. Trigger phrases: "Compile my) Tj
+T* (raw notes and code snippets into a structured peer study guide." "Run the automation to) Tj
+T* (filter out compiler logs and format these programming guidelines." "Turn this messy) Tj
+T* (assignment documentation into a clean, simplified reference sheet.") Tj
+T* (---) Tj
+T* () Tj
+T* (# Instructions) Tj
+T* () Tj
+T* (1. Accept and Validate Inputs: Gather all connected source materials, including raw text) Tj
+T* (notes, assignment outlines, and specific code blocks \(such as C++ class definitions\).) Tj
+T* () Tj
+T* (2. Filter and Remove Noise: Parse the documentation to scrub out system logs, redundant) Tj
+T* (compiler warnings, and distracting formatting artifacts.) Tj
+T* () Tj
+T* (3. Structure the Core Concepts: Group the remaining information into clean, logical) Tj
+T* (modules based on topic headings and core operational rules.) Tj
+T* () Tj
+T* (4. Simplify Technical Terminology: Translate complex code logic and abstract theories into) Tj
+T* (highly accessible, beginner-friendly explanations suitable for peer tutoring.) Tj
+T* () Tj
+T* (5. Format the Output: Compile the processed material into a clean Markdown document) Tj
+T* (utilizing clear headers, concise bullet points, and distinct syntax-highlighted code blocks.) Tj
+T* () Tj
+T* (6. Perform a Quality Check: Review the finalized guide to verify that no critical functional) Tj
+T* (logic was lost during simplification and ensure the tone remains highly readable before) Tj
+T* (outputting.) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+21 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20260618111721+02'00')
+>>
+endobj
+22 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000003215 00000 n 
+0000005040 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000001104 00000 n 
+0000001241 00000 n 
+0000003278 00000 n 
+0000003403 00000 n 
+0000003533 00000 n 
+0000003666 00000 n 
+0000003804 00000 n 
+0000003928 00000 n 
+0000004057 00000 n 
+0000004189 00000 n 
+0000004325 00000 n 
+0000004453 00000 n 
+0000004580 00000 n 
+0000004709 00000 n 
+0000004842 00000 n 
+0000004944 00000 n 
+0000005290 00000 n 
+0000005376 00000 n 
+trailer
+<<
+/Size 23
+/Root 22 0 R
+/Info 21 0 R
+/ID [ <D0B05A834A2B7E84462B373031609F6A> <D0B05A834A2B7E84462B373031609F6A> ]
+>>
+startxref
+5480
+%%EOF

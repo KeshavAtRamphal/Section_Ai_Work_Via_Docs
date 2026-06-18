@@ -1,0 +1,335 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 922
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 24 Tf
+27.5999999999999979 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(Linux Workstation Setup) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 723.0208346456693107 Td
+(Skill Name) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 695.0190708661416465 Td
+(Linux Workstation Setup) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 656.8443307086613459 Td
+(Description) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 628.8425669291337954 Td
+(Automates the post-installation environment provisioning of a fresh Linux distro by updating) Tj
+T* (core packages, applying cohesive custom desktop themes, configuring dotfiles and shell) Tj
+T* (aliases, and securely installing privacy and development suites.) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 554.6655590551180239 Td
+(Your SKILL.md) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 2175
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(---) Tj
+T* (name: linux-workstation-setup) Tj
+T* (description: Automates the post-installation environment provisioning of a fresh Linux distro) Tj
+T* (by updating core packages, applying cohesive custom desktop themes \(like pixel art) Tj
+T* (layouts\), configuring dotfiles/shell aliases, and securely installing privacy and development) Tj
+T* (suites. Trigger phrases include "Help me spin up my personalized Linux development) Tj
+T* (environment," "Run the automation script to configure my custom desktop theme and) Tj
+T* (privacy tools," or "Set up a fresh Linux workstation from scratch using my dotfiles.") Tj
+T* (---) Tj
+T* () Tj
+T* (# Instructions) Tj
+T* () Tj
+T* (1. Receive User Inputs: Ask the user to provide the target Linux distribution \(e.g., Ubuntu,) Tj
+T* (Arch\), the path or GitHub repository where their configuration dotfiles are stored, and the) Tj
+T* (URL/local path for their custom 4K theme elements \(such as pixel art backgrounds\).) Tj
+T* () Tj
+T* (2. System Update & Core Provisioning: Execute package manager updates and install) Tj
+T* (essential baseline development packages, a window manager, terminal emulators, and the) Tj
+T* (specified privacy applications.) Tj
+T* () Tj
+T* (3. Configuration Deployment: Clone the dotfiles repository and symlink the configuration) Tj
+T* (files to their respective target directories \(e.g., ~/.config/\).) Tj
+T* () Tj
+T* (4. Theme Application: Move the custom 4K desktop wallpapers into the system) Tj
+T* (background directory and modify the window manager or desktop environment theme) Tj
+T* (variables to match the intended visual profile.) Tj
+T* () Tj
+T* (5. Quality Check & Verification: Verify successful deployment by checking that the) Tj
+T* (configurations load without errors, running a script to test tool availability, and outputting a) Tj
+T* (summary table confirming the status of installed tools and active themes.) Tj
+T* () Tj
+T* (6. Final Output: A fully customized, ready-to-use desktop environment matching the user's) Tj
+T* (exact development and visual preferences.) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+21 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20260618111636+02'00')
+>>
+endobj
+22 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000003489 00000 n 
+0000005314 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000001125 00000 n 
+0000001262 00000 n 
+0000003552 00000 n 
+0000003677 00000 n 
+0000003807 00000 n 
+0000003940 00000 n 
+0000004078 00000 n 
+0000004202 00000 n 
+0000004331 00000 n 
+0000004463 00000 n 
+0000004599 00000 n 
+0000004727 00000 n 
+0000004854 00000 n 
+0000004983 00000 n 
+0000005116 00000 n 
+0000005218 00000 n 
+0000005564 00000 n 
+0000005650 00000 n 
+trailer
+<<
+/Size 23
+/Root 22 0 R
+/Info 21 0 R
+/ID [ <291729DAF8113547E84C18091007B61F> <291729DAF8113547E84C18091007B61F> ]
+>>
+startxref
+5754
+%%EOF

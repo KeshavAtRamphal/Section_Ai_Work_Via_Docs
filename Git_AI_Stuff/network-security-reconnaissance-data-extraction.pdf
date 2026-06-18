@@ -1,0 +1,329 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 930
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 24 Tf
+27.5999999999999979 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(Network Security Reconnaissance Data) Tj
+T* (Extraction) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 687.0185669291338399 Td
+(Task Name) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 659.0168031496062895 Td
+(Network Security Reconnaissance Data Extraction) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 620.8420629921258751 Td
+(Description) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 592.8402992125984383 Td
+(Transformed multiple unstructured network reconnaissance terminal outputs and error logs) Tj
+T* (into a clean, organized Markdown table documenting open ports, active services, and) Tj
+T* (security vulnerabilities.) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 518.6632913385826669 Td
+(Task Summary) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 1538
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(Security Reconnaissance Data Extraction Summary) Tj
+T* () Tj
+T* (The analysis processed network reconnaissance terminal outputs and error logs, filtering) Tj
+T* (out system noise, formatting artifacts, and irrelevant error codes to extract meaningful) Tj
+T* (security data.) Tj
+T* () Tj
+T* (Findings:) Tj
+T* () Tj
+T* (IP 192.168.1.50 has SSH service on port 22 running OpenSSH 7.6p1 with medium risk due) Tj
+T* (to an outdated version susceptible to user enumeration vulnerabilities.) Tj
+T* () Tj
+T* (IP 192.168.1.50 has HTTP service on port 80 running Apache httpd 2.4.29 with low risk as) Tj
+T* (cleartext traffic is permitted on this standard web server port.) Tj
+T* () Tj
+T* (IP 192.168.1.115 has HTTPS service on port 443 running nginx 1.14.0 with informational) Tj
+T* (status as secure web traffic is active and the SSL/TLS certificate is valid.) Tj
+T* () Tj
+T* (IP 192.168.1.201 has SMB service on port 445 running Microsoft-DS with high risk as) Tj
+T* (EternalBlue signature patterns associated with MS17-010 were detected in error logs.) Tj
+T* () Tj
+T* (IP 192.168.1.201 has RDP service on port 3389 running ms-wbt-server with medium risk) Tj
+T* (as Network Level Authentication appears disabled, creating exposure to brute-force) Tj
+T* (attacks.) Tj
+T* () Tj
+T* (System trace logs, unmappable packet drop entries, and recurring connection timeout) Tj
+T* (artifacts were filtered out to maintain clean reporting.) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+21 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20260618111654+02'00')
+>>
+endobj
+22 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000002860 00000 n 
+0000004685 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000001133 00000 n 
+0000001270 00000 n 
+0000002923 00000 n 
+0000003048 00000 n 
+0000003178 00000 n 
+0000003311 00000 n 
+0000003449 00000 n 
+0000003573 00000 n 
+0000003702 00000 n 
+0000003834 00000 n 
+0000003970 00000 n 
+0000004098 00000 n 
+0000004225 00000 n 
+0000004354 00000 n 
+0000004487 00000 n 
+0000004589 00000 n 
+0000004935 00000 n 
+0000005021 00000 n 
+trailer
+<<
+/Size 23
+/Root 22 0 R
+/Info 21 0 R
+/ID [ <779C884D1319675C8CDCBB74137BFBD7> <779C884D1319675C8CDCBB74137BFBD7> ]
+>>
+startxref
+5125
+%%EOF

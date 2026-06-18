@@ -1,0 +1,411 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 1083
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 24 Tf
+27.5999999999999979 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(Portfolio README Generator) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 723.0208346456693107 Td
+(Automation Name) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 695.0190708661416465 Td
+(Portfolio README Generator) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 656.8443307086613459 Td
+(What It Does) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 628.8425669291337954 Td
+(This automation generates GitHub-ready README files for completed projects and labs.) Tj
+T* (Feed it a brief summary or raw code from a C++ tool or cybersecurity lab, and it outputs a) Tj
+T* (professional, consistently formatted README that matches your portfolio style. No more) Tj
+T* (manual formatting or hunting for old templates. Every project gets recruiter-grade) Tj
+T* (documentation instantly.) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 518.6632913385826669 Td
+(Implementation Guide) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 3108
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(Step 1: Choose Your Tool) Tj
+T* (Set this up as a Claude Project or a Custom GPT. Both allow persistent instructions and) Tj
+T* (uploaded reference materials.) Tj
+T* () Tj
+T* (Step 2: Gather Your Context Materials) Tj
+T* (Before building, collect these items:) Tj
+T* (- One or two example READMEs from your existing GitHub portfolio that match your) Tj
+T* (preferred style.) Tj
+T* (- A short document with your bio snippet, your core tech stack, and any repeated phrasing) Tj
+T* (you use across projects.) Tj
+T* (- A sample project or lab summary so you can test the output immediately.) Tj
+T* () Tj
+T* (Step 3: Write Your System Instructions) Tj
+T* (Create the custom instructions for your tool. Include:) Tj
+T* (- Role: You are a documentation assistant specialized in creating GitHub README files for) Tj
+T* (technical projects.) Tj
+T* (- Formatting requirements: Specify your preferred structure. Example sections include) Tj
+T* (Project Overview, Features, Installation, Usage, Tech Stack, and Key Takeaways.) Tj
+T* (- Tone and style: Describe whether you want it concise or detailed, technical or accessible.) Tj
+T* (- Output rules: Instruct the tool to use Markdown, include code block placeholders, and) Tj
+T* (format headings consistently.) Tj
+T* () Tj
+T* (Step 4: Upload Reference Files) Tj
+T* (Upload your example READMEs and tech stack document to the project or custom GPT.) Tj
+T* (This gives the tool persistent access to your style and preferred language.) Tj
+T* () Tj
+T* (Step 5: Test With a Real Example) Tj
+T* (Drop in a quick summary of a recently completed project or lab. Review the generated) Tj
+T* (README. Check formatting consistency, tone, and completeness. Iterate on your) Tj
+T* (instructions if needed.) Tj
+T* () Tj
+T* (Step 6: Use It Weekly) Tj
+T* (Each time you finish a project or lab, open the tool, paste in your summary or code) Tj
+T* (snippets, and generate the README. Copy the output directly into your GitHub repository.) Tj
+T* () Tj
+T* (Before You Build: Verify Your Tool Can Do This) Tj
+T* (- Persistent memory across sessions: Confirm your chosen tool can store custom) Tj
+T* (instructions and uploaded files permanently. Claude Projects and Custom GPTs both) Tj
+T* (support this. Standard ChatGPT conversations do not.) Tj
+T* (- File upload capability: You need to be able to upload your example READMEs and tech) Tj
+T* (stack reference. Both Claude Projects and Custom GPTs support file uploads.) Tj
+T* (- Markdown formatting: Ensure the tool can output clean Markdown with headings, code) Tj
+T* (blocks, and lists. All major AI tools handle this well, but test with one example to confirm) Tj
+T* (output quality.) Tj
+T* () Tj
+T* (What This Tool Cannot Do Alone) Tj
+T* (This automation will not automatically commit files to GitHub or scrape data from your) Tj
+T* (codebase. You will still need to manually copy the generated README into your repository) Tj
+T* (and push it. The automation handles the writing and formatting, not the Git workflow.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 1813
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(Starter Prompt) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 757.1953228346455944 Td
+(You are a technical documentation assistant specialized in creating professional,) Tj
+T* (GitHub-ready README files for software projects and cybersecurity labs.) Tj
+T* () Tj
+T* (Your job is to take a brief project summary, code snippets, or lab descriptions and output a) Tj
+T* (complete, polished README.md file that follows a consistent structure and tone.) Tj
+T* () Tj
+T* (Output Structure:) Tj
+T* (Every README you generate should include these sections in order:) Tj
+T* (1. Project Title - Clear, descriptive name) Tj
+T* (2. Overview - One or two sentences summarizing what the project does) Tj
+T* (3. Features - Bullet list of key functionality) Tj
+T* (4. Tech Stack - Technologies, languages, and tools used) Tj
+T* (5. Installation - Step-by-step setup instructions with code blocks) Tj
+T* (6. Usage - Example commands or screenshots showing how to use the project) Tj
+T* (7. Key Takeaways - What was learned or what makes this project noteworthy) Tj
+T* () Tj
+T* (Formatting Rules:) Tj
+T* (- Use proper Markdown with heading levels, code blocks, and bullet lists) Tj
+T* (- Keep code blocks clearly labeled with language tags) Tj
+T* (- Use concise, professional language) Tj
+T* (- Maintain a technical but accessible tone) Tj
+T* (- Include placeholders for screenshots where appropriate) Tj
+T* () Tj
+T* (When I provide you with a project summary, code, or lab write-up, generate a complete) Tj
+T* (README following this structure. If any section is unclear from my input, make reasonable) Tj
+T* (assumptions based on typical project patterns and note what I should verify or expand.) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R ]
+/Count 3
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 9 0 R
+/F2 10 0 R
+/F3 11 0 R
+/F4 12 0 R
+/F5 13 0 R
+/F6 14 0 R
+/F7 15 0 R
+/F8 16 0 R
+/F9 17 0 R
+/F10 18 0 R
+/F11 19 0 R
+/F12 20 0 R
+/F13 21 0 R
+/F14 22 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+23 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20260618111757+02'00')
+>>
+endobj
+24 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000006586 00000 n 
+0000008419 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000001287 00000 n 
+0000001424 00000 n 
+0000004584 00000 n 
+0000004721 00000 n 
+0000006655 00000 n 
+0000006780 00000 n 
+0000006911 00000 n 
+0000007045 00000 n 
+0000007183 00000 n 
+0000007307 00000 n 
+0000007436 00000 n 
+0000007568 00000 n 
+0000007704 00000 n 
+0000007832 00000 n 
+0000007959 00000 n 
+0000008088 00000 n 
+0000008221 00000 n 
+0000008323 00000 n 
+0000008671 00000 n 
+0000008757 00000 n 
+trailer
+<<
+/Size 25
+/Root 24 0 R
+/Info 23 0 R
+/ID [ <9D66BDA9EA96906D0C1FDD31B5CE58B2> <9D66BDA9EA96906D0C1FDD31B5CE58B2> ]
+>>
+startxref
+8861
+%%EOF
